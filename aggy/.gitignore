@@ -1,0 +1,8 @@
+# Images - download via scripts instead (copyright restrictions)
+*.png
+*.jpg
+*.jpeg
+*.gif
+
+# macOS
+.DS_Store
