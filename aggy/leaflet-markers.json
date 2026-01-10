@@ -1,0 +1,100 @@
+{
+    "markerIcons": [
+        {
+            "type": "entrance",
+            "iconName": "door-closed",
+            "color": "#dddddd",
+            "alpha": 1,
+            "layer": true,
+            "transform": {
+                "size": 6,
+                "x": 0,
+                "y": -2
+            },
+            "isImage": false,
+            "tags": [],
+            "minZoom": null,
+            "maxZoom": null
+        },
+        {
+            "type": "destination",
+            "iconName": "flag",
+            "color": "#dddddd",
+            "alpha": 1,
+            "layer": true,
+            "transform": {
+                "size": 6,
+                "x": 0,
+                "y": -2
+            },
+            "isImage": false,
+            "tags": [],
+            "minZoom": null,
+            "maxZoom": null
+        },
+        {
+            "type": "chamber",
+            "iconName": "archway",
+            "color": "#dddddd",
+            "alpha": 1,
+            "layer": true,
+            "transform": {
+                "size": 6,
+                "x": 0,
+                "y": -2
+            },
+            "isImage": false,
+            "tags": [],
+            "minZoom": null,
+            "maxZoom": null
+        },
+        {
+            "type": "junction",
+            "iconName": "expand-arrows-alt",
+            "color": "#dddddd",
+            "alpha": 1,
+            "layer": true,
+            "transform": {
+                "size": 6,
+                "x": 0,
+                "y": -2
+            },
+            "isImage": false,
+            "tags": [],
+            "minZoom": null,
+            "maxZoom": null
+        },
+        {
+            "type": "passage",
+            "iconName": "arrows-alt-h",
+            "color": "#dddddd",
+            "alpha": 1,
+            "layer": true,
+            "transform": {
+                "size": 6,
+                "x": 0,
+                "y": -2
+            },
+            "isImage": false,
+            "tags": [],
+            "minZoom": null,
+            "maxZoom": null
+        },
+        {
+            "type": "waypoint",
+            "iconName": "map-pin",
+            "color": "#dddddd",
+            "alpha": 1,
+            "layer": true,
+            "transform": {
+                "size": 6,
+                "x": 0,
+                "y": -2
+            },
+            "isImage": false,
+            "tags": [],
+            "minZoom": null,
+            "maxZoom": null
+        }
+    ]
+}
