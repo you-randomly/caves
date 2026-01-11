@@ -6,3 +6,6 @@
 
 # macOS
 .DS_Store
+
+# Obsidian - exclude frequently changing files
+.obsidian/workspace.json
