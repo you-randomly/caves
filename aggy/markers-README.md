@@ -1,15 +1,10 @@
-# Obsidian Leaflet Marker Configuration
+# Cave Survey Map Markers
 
-These are the custom map markers used for cave survey annotations.
+Custom map markers for annotating cave surveys in Obsidian using the Leaflet plugin.
 
-## How to Install
+## Pre-configured
 
-Copy the `markerIcons` array from `leaflet-markers.json` into your Obsidian Leaflet plugin settings:
-
-1. Open your vault's `.obsidian/plugins/obsidian-leaflet-plugin/data.json`
-2. Find the `"markerIcons": []` array
-3. Replace it with the contents from `leaflet-markers.json`
-4. Restart Obsidian
+The markers are already configured in the vault's Leaflet plugin settings (`.obsidian/plugins/obsidian-leaflet-plugin/data.json`). No manual setup required.
 
 ## Marker Types
 
