@@ -6,4 +6,4 @@ mapmarker: junction
 ---
 the first left turn is a low crawl
 
-![[IMG_20260110_131124_867.jpg]]
+![[Entrance Series junction 1.jpg]]
