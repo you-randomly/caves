@@ -14,7 +14,7 @@ maxZoom: 2
 defaultZoom: -1
 unit: meters
 scale: 1.0
-markerFolder: aggy/locations
+markerFolder: aggy/locations-central
 draw: false
 lock: true
 ```

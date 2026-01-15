@@ -1,6 +1,6 @@
 #!/bin/bash
 # Download images for Agen Allwedd Music Room route
-cd "$(dirname "$0")/locations"
+cd "$(dirname "$0")/locations-central"
 
 echo "Downloading images..."
 
