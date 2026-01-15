@@ -4,6 +4,9 @@
 *.jpeg
 *.gif
 
+# Allow personal photos in my-photos folder
+!aggy/my-photos/**
+
 # macOS
 .DS_Store
 
